@@ -14,10 +14,10 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.jpeg">
+<img class="cover" src="src/pict.JPG">
 <div class="songInfo">
-<div>Thinking Out Loud</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Cover by Martin</div>
+<div>You'll be in my heart</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Phil Collins</div>
 
 <div class="player">
 <div class="topRow">
@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/6.jpg" class="filmPic">
+<img src="src/1.JPG" class="filmPic">
+<img src="src/2.JPG" class="filmPic">
+<img src="src/3.JPG" class="filmPic">
+<img src="src/4.JPG" class="filmPic">
+<img src="src/5.JPG" class="filmPic">
+<img src="src/pict.JPG" class="filmPic">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/6.jpg" class="filmPic">
+<img src="src/1.JPG" class="filmPic">
+<img src="src/2.JPG" class="filmPic">
+<img src="src/3.JPG" class="filmPic">
+<img src="src/4.JPG" class="filmPic">
+<img src="src/5.JPG" class="filmPic">
+<img src="src/pict.JPG" class="filmPic">
 
 </div>
 </div>
@@ -109,22 +109,15 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br>
 
-My dearest Mirrae,
 
-I was thinking about you again and again, and somehow the first thing that came to my mind was how grateful I am that I get to know you the way I do now. Out of all the random ways two lives can cross, somehow I ended up meeting you. And the more I think about it, the more it feels like something I should be thankful for every single day.
+Nine months with you feels both long and short at the same time. Long, because we’ve shared so many moments, memories, and feelings together. Short, because every day with you still feels new and exciting to me.
 
-Getting to know you has been one of the calmest and most meaningful things in my life lately. You understand me in ways that not many people do, semestaku. Sometimes I don’t even need to explain too much, and you already get what I mean. Kadang aku cuma cerita sedikit, tapi kamu langsung nangkep maksudnya. And that kind of understanding is rare. It makes me feel like I’m not alone in the way I think or feel.
+Thank you for staying, for being patient with me, and for loving me even when I’m not at my best. You make my days brighter, my problems lighter, and my heart calmer. Being with you is one of the best things that has ever happened to me.
 
-There’s something about you that makes everything feel easier. Selama satu bulan ke belakang, talking to you doesn’t feel like a task, ntik. It feels like somewhere I can rest, I can be honest, I can be quiet, I can be a little chaotic, and you still stay. 
+These nine months are just a small part of our story, but they already mean so much to me. I hope we continue growing together, learning about each other, and making more memories that we can look back on someday.
 
-The more time I spend with you, the more I notice how much you care about people around you. Those small things say a lot about who you are, and every time I notice them I feel lucky that I get to see that side of you. Mirrae, I’m genuinely grateful that you came into my life. Bersyukur banget bisa kenal kamu, bisa ngobrol sama kamu, bisa pelan-pelan ngerti cara kamu berpikir dan cara kamu melihat dunia. Not everyone gets the chance to meet someone who understands them this naturally, and I don’t take that for granted.
+I don’t know what the future will look like, but I know that having you in my life is something I’m truly grateful for. Happy 9 months to us, and I hope this is only the beginning of many more memories, laughs, and moments together.
 
-Sometimes I look at you and think about how strange and beautiful it is that someone like you exists in my life now. In a world where people often feel distant from each other, having you feels like finding a place where things finally make sense. So if there’s one thing I want you to know, I’m really thankful for you, Mirrae. Knowing you has been one of the best things that happened to me.
-
-And if life keeps giving me the chance, I hope I get to keep knowing you longer, understanding you deeper, and standing beside you through whatever comes next.
-
-I love you, Mirrae Lune.
-- Marvin Edwards.
 
 <span class="signal">END SIGNAL</span>
 
